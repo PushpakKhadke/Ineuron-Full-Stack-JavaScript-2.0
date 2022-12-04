@@ -1,1 +1,1 @@
-# Ineuron_Full_Stack_JavaScript-2.0
+# Ineuron-Full-Stack-JavaScript-2.0
