@@ -1,8 +1,8 @@
 # Ineuron-Full-Stack-JavaScript-2.0
 # Assignments ( Article ) :
 | Assignments No | Date     | Link      |
-| --------       | -------- | --------  |
-|                |          |           |
+| :---           | :---:    | ---:      |
+| left           | center   | right     |
  
 | heading1 | heading2 |
 | --- | --- |
