@@ -1,5 +1,5 @@
 # Full Stack JavaScript Bootcamp 2.0 ( Project 1 )
-### 💻 Website name : SEO Master
+### 💻 Website name : `SEO Master`
 <br>
 In this project, I used only flexbox properties and learned many new things for and first time using the new CSS: Selector.
 
