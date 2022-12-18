@@ -19,4 +19,7 @@ Time : 1 Hour 20 min
 
 
 ### PC:
-<img src="/repository/assets/employee.png" alt="Employee data" title="Employee Data title">
+<img src="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/blob/main/Projects/FSJS%202.0%20Project%2001/output.png" alt="Employee data" title="Employee Data title">
+
+### Mobile:
+
