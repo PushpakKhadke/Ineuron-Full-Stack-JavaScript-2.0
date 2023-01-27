@@ -12,7 +12,7 @@ Time : 1 Hour 20 min
 * CSS
 <br>
 
-### My Solution Link ( Responsive Version ): <a href="http://127.0.0.1:5500/index.html" target="_blank"> Website Link</a>
+### My Solution Link ( Responsive Version ): <a href="https://ubiquitous-muffin-437443.netlify.app/" target="_blank"> Website Link</a>
 <br>
 
 ### ScreenShot:
