@@ -12,7 +12,7 @@ Time : 1 Hour 20 min
 * CSS
 <br>
 
-### My Solution Link ( Responsive Version ): <a href="https://ubiquitous-muffin-437443.netlify.app/" target="_blank"> Website Link</a>
+### My Solution Link ( Responsive Version ): <a href="https://jovial-bonbon-f6d55a.netlify.app/" target="_blank"> Website Link</a>
 <br>
 
 ### ScreenShot:
