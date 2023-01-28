@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;800&display=swap');
+
+:root {
+    --bg: #fff;
+    --bgp: #c2b03f;
+    --bgs: #2B2923;
+    --tcp: #000000;
+}
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: inherit;
+    font-family: inherit;
+
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: var(--bgs);
+    color: var(--bg);
+}
+
+li {
+    list-style: none;
+    font-size: 1.4rem;
+}
+
+ /* UTIL  */
+
+.max-width{
+    width: 100%;
+    max-width: 1200px;
+    margin-inline: auto;
+}
+
+/* HEADER  */
+
+header{
+    padding: 2rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo img{
+    width: 120px;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+    color: #afafaf;
+}
+
+.nav li{
+    cursor: pointer;
+}
+
+.btn{
+    background-color: transparent;
+    border: 2px solid var(--bgp);
+    color: var(--bgp);
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+/* HERO  */
+
+.hero{
+    width: 100%;
+    height: 100%;
+    min-height: calc(100vh- 86px);
+
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+
+    padding-inline: 2rem;
+}
+
+.text-section{
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.text-section h1{
+    width: 48%;
+    font-size: 6rem;
+}
+
+.text-section p{
+    width: 45%;
+    font-size: 1.6rem;
+    line-height: 1.7;
+    color: #afafaf;
+    font-weight: 400;
+}
+
+.img-section{
+    width: 100%;
+    height: 100%;
+}
+
+.img-section img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+@media (max-width:900px) {
+    .hero{
+        margin-top: 2rem;
+    }
+    .text-section{
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .text-section h1{
+        width: 100%;
+    }
+
+    .text-section p{
+        width: 80%;
+    }
+}
+
+@media (max-width:724px) {
+    .nav{
+        display: none;
+    }
+
+    .text-section h1{
+        font-size: 3.8rem;
+    }
+
+    .img-section img{
+        height: 60vh;
+    }
+}
