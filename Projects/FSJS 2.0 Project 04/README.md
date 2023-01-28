@@ -11,7 +11,7 @@ Time : 1.5 Hour
 * CSS
 <br>
 
-### My Solution Link ( Not Responsive Version ): <a href="https://splendid-arithmetic-20296d.netlify.app/" target="_blank"> Website Link</a>
+### My Solution Link ( Responsive Version ) : <a href="https://splendid-arithmetic-20296d.netlify.app/" target="_blank"> Website Link</a>
 <br>
 
 ### ScreenShot:
