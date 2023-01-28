@@ -1,0 +1,186 @@
+/* You can not modify anything in the HTML */
+/* You can only modify the CSS file */
+
+/* Pushpak Khadke  */
+
+:root {
+    --bg-white: #fff;
+    --bg-primary: #BA0CC5;
+    --bg-secondary: #000000;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-color: #fff;
+    font-family: "Poppins", sans-serif;
+}
+
+li{
+    list-style: none;
+    font-size: 1.6rem;
+}
+
+p{
+    font-size: 1.6rem;
+}
+
+button{
+    background-color: transparent;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    background-color: var(--bg-primary);
+    border-radius: 10px;
+    color: var(--bg-white);
+    white-space: nowrap;
+    padding: 14px 30px;
+}
+
+button:hover{
+    opacity: 90%;
+}
+
+/* UTIL  */
+
+.button-small{
+    font-size: 1.6rem;
+}
+
+.button-large{
+    font-size: 2.2rem;
+    margin-top: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+/* CONTAINER  */
+
+.container{
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+}
+
+
+/* NAVBAR  */
+
+section[aria-label="navbar"]{
+    background-color: var(--bg-secondary);
+    color: var(--bg-white);
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.5rem 4rem;
+
+}
+
+.line{
+    display: inline-block;
+    width: 0.2rem;
+    height: 40px;
+    background-color: var(--bg-white);
+}
+
+.grow-list{
+    flex-basis: 70%;
+}
+
+.logo{
+    width: 100px;
+}
+
+.grow-list .list{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 4rem;
+}
+
+.grow-list .list li{
+    position: relative;
+    cursor: pointer;  
+    transition: color 0.3s ease-in-out;
+}
+
+
+.grow-list .list li:hover{
+    color: var(--bg-primary);
+}
+
+/* HERO  */
+
+
+
+section[aria-label="hero"] {
+    width: 100%;
+    height: 100%;
+    min-height: calc(100vh - 76px);
+    background: url('./assets/bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 6rem;
+    padding-inline: 1rem;
+}
+
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    color: var(--bg-white);
+    text-align: center;
+}
+
+.hero-heading{
+    font-size: 6rem;
+    font-weight: 600;
+    max-width: 900px;
+    margin-inline: auto;
+    padding: 2rem;
+    line-height: 1.5;
+    font-family: "Montserrat";
+}
+
+.hero-description{
+    font-weight: 600;
+    font-size: 2.2rem;
+}
+
+@media (max-width:999px){
+    .grow-list{
+        display: none;
+    }
+
+    .line{
+        display: none;
+    }
+
+    .hero-heading{
+        font-size: 4rem;
+    }
+
+    .hero-description,.button-large{
+        font-size: 2rem;
+    }
+}
+
+@media (max-width:550px) {
+    .navbar{
+        padding: 1.5rem 2rem;
+    }
+}
