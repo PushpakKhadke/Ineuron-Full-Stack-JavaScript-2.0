@@ -19,4 +19,4 @@ Time : 2 Hour and 30 Min
 
 
 ### PC :
-<img src="./output.png" alt="Employee data" title="Image">
+<img src="./Output.png" alt="Employee data" title="Image">
