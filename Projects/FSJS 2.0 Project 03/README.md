@@ -12,7 +12,7 @@ Time : 2 Hour
 * CSS
 <br>
 
-### My Solution Link ( Responsive Version ): <a href="https://fancy-crepe-632dc6.netlify.app/" target="_blank"> Website Link</a>
+### My Solution Link ( Not Responsive Version ): <a href="https://fancy-crepe-632dc6.netlify.app/" target="_blank"> Website Link</a>
 <br>
 
 ### ScreenShot:
