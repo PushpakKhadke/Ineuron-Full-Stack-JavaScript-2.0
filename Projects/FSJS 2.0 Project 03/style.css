@@ -1,0 +1,233 @@
+/* You can not modify anything from the HTML file */
+/* You can only modify the CSS file */
+
+/* Pushpak Khadke */
+
+:root {
+    --bg-white: #fff;
+    --bg-primary: #BA0CC5;
+    --bg-secondary: #000000;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-color: #fff;
+    font-family: "Orbitron", sans-serif;
+    font-weight: 400;
+}
+
+li {
+    list-style: none;
+    font-size: 1.6rem;
+}
+
+p {
+    font-size: 1.6rem;
+}
+
+ /* UTIL  */
+
+ img[alt="brand-logo"]{
+    width: 110px;
+ }
+
+/* NAVBAR */
+
+section[aria-label="navbar"]{
+    padding: 2rem 2rem;
+}
+
+.navbar-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-inline: 4rem;
+}
+
+.list{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 4rem;
+}
+
+.list li{
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 500;
+    letter-spacing: 1px;
+    position: relative;
+}
+
+.list li::after{
+    content: '';
+    position: absolute;
+    bottom: -0.4rem;
+    left: 0;
+    width: 0%;
+    height: 0.2rem;
+    background-color: #000000;
+    transition: width 0.4s ease-in-out;
+}
+
+.list li:hover::after{
+    width: 70%;
+}
+
+.list li:first-child::after{
+    width: 70%;
+}
+
+.button-group{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-direction: row;
+}
+
+.nav-button{
+    background-color: transparent;
+    font-family: "Poppins",sans-serif;
+    font-size: 1.4rem;
+    padding: 5px 38px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+/* HERO  */
+
+.hero-container{
+    width: 100%;
+    min-height: calc(100vh - 80px);
+    position: relative;
+    display: flex;
+    gap: 2rem;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.square,.star,.globe{
+    position: absolute;
+    display: none;
+}
+
+.star{
+    display: inline-block;
+    top: 2%;
+    right: 10%;
+}
+
+.star:nth-child(2){
+    top: 80%;
+    left: 10%;
+}
+
+.star img{
+    width: 40px;
+}
+
+.globe{
+    display: inline-block;
+    top: 5%;
+    left: 60%;
+}
+
+.globe img{
+    width: 50px;
+}
+
+img[alt="person-hero-iamge"]{
+    /* width: 100%; */
+    /* height: 100%; */
+    max-width: 360px;
+    object-fit: cover;
+}
+
+div img[alt="person-hero-iamge"]{
+    position: absolute;
+    top: 50%;
+    left: 8%;
+    translate: 0 -55%;
+}
+
+.square{
+    display: inline-block;
+    z-index: -1;
+    top: 40%;
+    left: 10%;
+    translate: 0 -20%;
+}
+
+.square img{
+    width: 400px;
+}
+
+.hero-container-right{
+    width: 60%;
+    display: flex;
+    gap: 4rem;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-inline: 2rem;
+}
+
+.hero-heading{
+    font-size: 5rem;
+}
+
+.hero-description{
+    font-size: 1.4rem;
+    font-family: "Poppins";
+    max-width: 600px;
+    margin-inline: auto;
+}
+
+.button-email,.button-join{
+    font-family: "Orbitron";
+    font-size: 1.4rem;
+    padding: 1rem 2rem;
+    border-radius: 10px;
+}
+
+.button-email{
+    background-color: transparent;
+    padding: 1rem 4rem;
+}
+
+.button-join{
+    background-color: #000000;
+    color: #fff;
+    cursor: pointer;
+    margin-left: 1rem;
+}
+
+.contact-heading{
+    font-size: 1.4rem;
+    font-family: "Poppins";
+    font-weight: 400;
+    margin-top: 4rem;
+}
+
+.icons{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 1rem;
+    margin-top: 1rem;
+
+}
+
+.icons span img{
+    width: 30px;
+    cursor: pointer;
+}
