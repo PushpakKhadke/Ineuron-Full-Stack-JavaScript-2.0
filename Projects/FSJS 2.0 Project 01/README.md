@@ -1,28 +1,25 @@
-# Full Stack JavaScript Bootcamp 2.0 ( Project 1 )
-### 💻 Website name : `SEO Master`
-<br>
-In this project, I used only flexbox properties and learned many new things for and first time using the new CSS: Selector.
+# Project 01 ( SEO Master )
+[Live-In-Production Demo](https://ubiquitous-muffin-437443.netlify.app/)_________________________________________ _Individual Project | Duration: 3-4 hours_ <br>
+- We Help You Crush Your Competition webpage. <br>
+- This is a basic landing web page that i built using just pure html & css.
 
-Time : 1 Hour 20 min
-<br>
-<br>
+## 👨‍💻 Tech Stack
+Tech : `HTML` `CSS` <br>
 
-### 👨‍💻 Tech Stack:
-* HTML
-* CSS
-<br>
+Tools : `VS Code`
 
-### My Solution Link ( Responsive Version ): <a href="https://ubiquitous-muffin-437443.netlify.app/" target="_blank"> Website Link</a>
-<br>
+## 📝 I learn
+- HTML Tag and CSS Basics
 
-### ScreenShot:
-<br>
+## 📷 Screenshot
 
+### Pc:
 
-### PC :
-<img src="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/blob/main/Projects/FSJS%202.0%20Project%2001/output.png" alt="Employee data" title="Employee Data title">
+<img src="./output.png" alt="Output">
 
-### Mobile :
-<img src="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/blob/main/Projects/FSJS%202.0%20Project%2001/Mobile.png" alt="Employee data" title="Employee Data title">
+### Mobile:
+
+<img src="./Mobile.png" alt="Output">
+
 
 
