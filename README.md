@@ -8,8 +8,12 @@
 | :---        | :---          |
 | Articles         |	<a href="">Click here and go to list of articles.</a>   |
 # 👨‍💻 Practices & Homeworks
-## <a href=""></a>   HTML & CSS Assignments and Practices
-## Projects
+##   HTML & CSS Assignments and Practices
+|Sr.No|Name|Link|
+| :---        | :---:         |:---|
+| 01       | Homework	|<a href="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/tree/main/Assignments/02-Dec-2022">Link</a>   |
+# 💻 Projects
+##  HTML & CSS Projects
 | Projects No | Projects Name | Date      | Link|
 | :---        | :---          |:---:      | :---|
 | 01          |	SEO Master    |20-Nov-2022| <a href="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/tree/main/Projects/FSJS%202.0%20Project%2001">Link</a>    |
