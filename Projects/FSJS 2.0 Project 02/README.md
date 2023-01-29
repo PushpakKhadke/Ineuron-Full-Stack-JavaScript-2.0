@@ -1,26 +1,22 @@
-# Full Stack JavaScript Bootcamp 2.0 ( Project 2 )
-### 💻 Website name : `Crypto Market`
-<br>
-In this project, I used only flexbox properties and learned many new things for and first time using the new CSS: Selector.
+# Project 02 ( Crypto Market )
+[Live-In-Production Demo](https://jovial-bonbon-f6d55a.netlify.app/)_________________________________________ _Individual Project | Duration: 4-5 hours_ <br>
+- Crypto landing webpage. <br>
+ - This is a basic landing web page that i built using just pure HTML & CSS.
 
-Time : 1 Hour 20 min
-<br>
-<br>
+## 👨‍💻 Tech Stack
+Tech : `HTML` `CSS` <br>
 
-### 👨‍💻 Tech Stack:
-* HTML
-* CSS
-<br>
+Tools : `VS Code`
 
-### My Solution Link ( Responsive Version ): <a href="https://jovial-bonbon-f6d55a.netlify.app/" target="_blank"> Website Link</a>
-<br>
+## 📝 I learn
+- HTML Tag and CSS Basic
 
-### ScreenShot:
-<br>
+## 📷 Screenshot
 
+### Pc:
 
-### PC :
-<img src="./output.png" alt="Employee data" title="Employee Data title">
+<img src="./output.png" alt="Output">
 
-### Mobile :
-<img src="./Mobile.png" alt="Employee data" title="Employee Data title">
+### Mobile:
+
+<img src="./Mobile.png" alt="Output">
