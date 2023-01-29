@@ -1,7 +1,7 @@
 # Project 01 ( SEO Master )
 [Live-In-Production Demo](https://ubiquitous-muffin-437443.netlify.app/)_________________________________________ _Individual Project | Duration: 3-4 hours_ <br>
 - We Help You Crush Your Competition webpage. <br>
-- This is a basic landing web page that i built using just pure html & css.
+- This is a basic landing web page that i built using just pure HTML & CSS.
 
 ## 👨‍💻 Tech Stack
 Tech : `HTML` `CSS` <br>
