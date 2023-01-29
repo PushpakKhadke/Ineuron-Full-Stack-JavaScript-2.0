@@ -1,22 +1,20 @@
-# Full Stack JavaScript Bootcamp 2.0 ( Project 6 )
-### 💻 Website name : `Justice`
-<br>
+# Project 06 ( 	Justice )
+[Live-In-Production Demo](https://splendid-arithmetic-20296d.netlify.app/)_________________________________________ _Individual Project | Duration: 9-8 hours_ <br>
+- A Law and Justice landing webpage. <br>
+- This is a basic landing web page that i built using just pure html & css.
 
-Time : 2 Hour and 30 Min
-<br>
-<br>
+## 👨‍💻 Tech Stack
+Tech : `HTML` `CSS` <br>
 
-### 👨‍💻 Tech Stack:
-* HTML
-* CSS
-<br>
+Tools : `VS Code`
 
-### My Solution Link ( Responsive Version ) : <a href="https://splendid-arithmetic-20296d.netlify.app/" target="_blank"> Website Link</a>
-<br>
+## 📝 I Learn
+- HTML Tag and CSS Basics
 
-### ScreenShot:
-<br>
+## 📷 Screenshot
+
+### Pc:
+
+<img src="./Output.png" alt="Output">
 
 
-### PC :
-<img src="./Output.png" alt="Employee data" title="Image">
