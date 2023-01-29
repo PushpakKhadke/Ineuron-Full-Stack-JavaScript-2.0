@@ -1,23 +1,19 @@
-# Full Stack JavaScript Bootcamp 2.0 ( Project 3 )
-### 💻 Website name : `Fashion Hub`
-<br>
-In This Project, I used flexbox and position properties. I learned many new things for and first time using the new CSS: Selector and Relative and Absolute Position</br>
-Time : 2 Hour
-<br>
-<br>
+# Project 03 ( SEO Master )
+[Live-In-Production Demo](https://fancy-crepe-632dc6.netlify.app/)_________________________________________ _Individual Project | Duration: 5-6 hours_ <br>
+- This is a basic landing web page that i built using just pure html & css. <br>
+ - In this webpage there are navbar section, hero section, and at the end contact us section
 
-### 👨‍💻 Tech Stack:
-* HTML
-* CSS
-<br>
+## 👨‍💻 Tech Stack
+Tech : `HTML` `CSS` <br>
 
-### My Solution Link ( Not Responsive Version ): <a href="https://fancy-crepe-632dc6.netlify.app/" target="_blank"> Website Link</a>
-<br>
+Tools : `VS Code`
 
-### ScreenShot:
-<br>
+## 📝 I learn
+- HTML Tag and CSS Basic
 
+## 📷 Screenshot
 
-### PC :
-<img src="./output.png" alt="Employee data" title="Employee Data title">
+### Pc:
+
+<img src="./output.png" alt="Output">
 
