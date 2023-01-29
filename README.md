@@ -1,10 +1,14 @@
-# Ineuron-Full-Stack-JavaScript-2.0
-## Assignments ( Article ) :
-| Assignments No | Date | Link |
-| :--- | :---: | :--- |
-| 01 | 05-Nov-2022 | <a href="https://pushpak21.hashnode.dev/introduction-to-web-html" target="_blank">Link</a> |
-| 02 | 06-Nov-2022 | <a href="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/tree/main/Assignments/02-Dec-2022" target="_blank">Link</a> |
-| 03 | 12-Nov-2022 | Link |
+# 💻 Ineuron-Full-Stack-JavaScript-2.0
+## About This Repository
+- This is my repository course by Hitesh Sir and Anurag Sir for Full Stack JavaScript 2.0 course.
+- All projects, articles and other practices are listed below.
+# All Articles, Assignments and Projects -
+# 📝 Articles
+|  Title|Link|
+| :---        | :---          |
+| Articles         |	<a href="">Click here and go to list of articles.</a>   |
+# 👨‍💻 Practices & Homeworks
+## <a href=""></a>   HTML & CSS Assignments and Practices
 ## Projects
 | Projects No | Projects Name | Date      | Link|
 | :---        | :---          |:---:      | :---|
