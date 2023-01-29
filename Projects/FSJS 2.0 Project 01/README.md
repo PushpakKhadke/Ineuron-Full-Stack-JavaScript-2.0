@@ -8,7 +8,7 @@ Tech : `HTML` `CSS` <br>
 
 Tools : `VS Code`
 
-## 📝 I learn
+## 📝 I Learn
 - HTML Tag and CSS Basics
 
 ## 📷 Screenshot
