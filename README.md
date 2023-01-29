@@ -19,6 +19,6 @@
 | 01          |	SEO Master    |20-Nov-2022| <a href="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/tree/main/Projects/FSJS%202.0%20Project%2001">Link</a>    |
 | 02          |Crypto Market  |20-Nov-2022|   <a href="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/tree/main/Projects/FSJS%202.0%20Project%2002">Link</a>  |
 | 03          |Fashion Hub    |20-Nov-2022|   <a href="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/tree/main/Projects/FSJS%202.0%20Project%2003">Link</a> |
-| 04          |Calm           |20-Nov-2022|  <a href="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/tree/main/Projects/FSJS%202.0%20Project%2004">Link</a>  |
-| 05          |Medifine       |20-Nov-2022|   <a href="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/tree/main/Projects/FSJS%202.0%20Project%2005">Link</a> |
-| 06          |Justice        |20-Nov-2022|   <a href="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/tree/main/Projects/FSJS%202.0%20Project%2006">Link</a> |
+| 04          |Calm           |26-Nov-2022|  <a href="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/tree/main/Projects/FSJS%202.0%20Project%2004">Link</a>  |
+| 05          |Medifine       |26-Nov-2022|   <a href="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/tree/main/Projects/FSJS%202.0%20Project%2005">Link</a> |
+| 06          |Justice        |26-Nov-2022|   <a href="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/tree/main/Projects/FSJS%202.0%20Project%2006">Link</a> |
