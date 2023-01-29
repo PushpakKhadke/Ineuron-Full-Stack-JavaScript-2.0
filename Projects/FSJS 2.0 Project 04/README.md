@@ -1,22 +1,19 @@
-# Full Stack JavaScript Bootcamp 2.0 ( Project 4 )
-### 💻 Website name : `Calm`
-<br>
+# Project 04 ( Calm )
+[Live-In-Production Demo](https://bespoke-semolina-661e44.netlify.app/)_________________________________________ _Individual Project | Duration: 5-6 hours_ <br>
+- This is a basic landing web page that i built using just pure html & css. <br>
+ - In this webpage there are header section, hero section.
 
-Time : 1.5 Hour
-<br>
-<br>
+## 👨‍💻 Tech Stack
+Tech : `HTML` `CSS` <br>
 
-### 👨‍💻 Tech Stack:
-* HTML
-* CSS
-<br>
+Tools : `VS Code`
 
-### My Solution Link ( Responsive Version ) : <a href="https://bespoke-semolina-661e44.netlify.app/" target="_blank"> Website Link</a>
-<br>
+## 📝 I Learn
+- HTML Tag and CSS Basics
 
-### ScreenShot:
-<br>
+## 📷 Screenshot
 
+### Pc:
 
-### PC :
-<img src="./output.png" alt="Employee data" title="Employee Data title">
+<img src="./output.png" alt="Output">
+
