@@ -9,7 +9,7 @@ Tech : `HTML` `CSS` <br>
 Tools : `VS Code`
 
 ## 📝 I learn
-- HTML Tag and CSS Basic
+- HTML Tag and CSS Basics
 
 ## 📷 Screenshot
 
