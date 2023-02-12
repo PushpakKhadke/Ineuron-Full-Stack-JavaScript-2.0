@@ -42,7 +42,7 @@ button{
     border-radius: 10px;
     color: var(--bg-white);
     white-space: nowrap;
-    padding: 14px 30px;
+    padding: 10px 30px;
 }
 
 button:hover{
