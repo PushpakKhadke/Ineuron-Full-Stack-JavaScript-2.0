@@ -1,5 +1,5 @@
 # Project 02 ( Crypto Market )
-[Live-In-Production Demo](https://jovial-bonbon-f6d55a.netlify.app/)_________________________________________ _Individual Project | Duration: 4-5 hours_ <br>
+[Live-In-Production Demo](https://fanciful-zabaione-f8b712.netlify.app/)_________________________________________ _Individual Project | Duration: 4-5 hours_ <br>
 - Crypto landing webpage. <br>
  - This is a basic landing web page that i built using just pure HTML & CSS.
 
