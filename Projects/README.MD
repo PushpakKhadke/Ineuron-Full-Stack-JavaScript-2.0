@@ -17,3 +17,8 @@
 ### Project 6 ( Justice ) : <a href="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/tree/main/Projects/FSJS%202.0%20Project%2006">Link</a>
 <h1><img src="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/blob/main/Projects/FSJS%202.0%20Project%2006/Output.png" alt="Image 6"></h1>
 
+### Project 7 ( Credit Card Landing Page ) : <a href="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/tree/main/Projects/FSJS%202.0%20Project%2007">Link</a>
+<h1><img src="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/blob/main/Projects/FSJS%202.0%20Project%2007/output/CREDIT_CARD_LANDING_PAGE.png" alt="Image 6"></h1>
+
+
+
