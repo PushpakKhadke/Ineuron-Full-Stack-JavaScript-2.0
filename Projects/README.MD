@@ -24,8 +24,7 @@
 <h1><img src="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/blob/main/Projects/FSJS%202.0%20Project%2008/output/Hostingpage.png" alt="Image 8"></h1>
 
 ### Project 9 ( Gaming Site Landing Page ) : <a href="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/tree/main/Projects/FSJS%202.0%20Project%2009">Link</a>
-<h1><img src="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/blob/main/Projects/FSJS%202.0%20Project%2009/output/Gaming_Landing_Page.png
-" alt="Image 9"></h1>
+<h1><img src="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/blob/main/Projects/FSJS%202.0%20Project%2009/output/Gaming_Landing_Page.png" alt="Image 9"></h1>
 
 
 
