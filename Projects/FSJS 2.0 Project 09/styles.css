@@ -1,0 +1,768 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+    --heroImage: url('../Assets/Photos/futuristic-bg.png');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+button {
+    cursor: pointer;
+}
+
+.nav-hero {
+    background-image: var(--heroImage);
+    background-position: center;
+    background-repeat: repeat-x repeat-y;
+    height: 1000px;
+    color: #ffffff;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+
+}
+
+nav img {
+    height: 50px;
+    cursor: pointer;
+}
+
+.leftNav {
+    display: flex;
+    gap: 50px;
+    position: relative;
+    left: -200px;
+}
+
+.leftNav p {
+    font-size: 14px;
+}
+
+.leftNav p:hover {
+    cursor: pointer;
+    color: #DF3A11;
+    text-shadow: 10px 10px 60px rgba(223, 58, 17, 1);
+}
+
+.rightNav {
+    display: flex;
+    gap: 2px;
+}
+
+.rightNav button {
+    font-size: 15px;
+    color: #ffffff;
+    background-color: transparent;
+    border: 4px solid transparent;
+    padding: 8px 25px;
+    /* font-weight: 500; */
+}
+
+.rightNav button:nth-child(2) {
+    background-color: #F4694C;
+}
+
+.rightNav button:hover {
+    background-color: #DF3A11;
+}
+
+
+.heroSection {
+    height: 800;
+    /* padding-top: 100px; */
+    display: flex;
+    /* justify-content: space-around; */
+
+}
+
+.leftHero {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    position: relative;
+    top: 150px;
+    left: 190px;
+}
+
+.leftHero h1 {
+    font-size: 55px;
+    width: 48%;
+}
+
+.leftHero h1 span {
+    text-shadow: 0px 0px 50px #ffffff;
+}
+
+.leftHero p {
+    color: #918D8D;
+    width: 40%;
+}
+
+.leftHeroButtons {
+    display: flex;
+    gap: 20px;
+}
+
+.leftHero button {
+    font-size: 18px;
+    color: #ffffff;
+    background-color: transparent;
+    padding: 13px 40px;
+    font-weight: 500;
+}
+
+.leftHero button:nth-child(1) {
+    background-color: #F4694C;
+    border: 2px solid #F4694C;
+}
+
+.leftHero button:nth-child(2) {
+    border: 2px solid #ffffff;
+}
+
+.leftHero button:hover {
+    background-color: #DF3A11;
+    border: 2px solid #DF3A11;
+}
+
+.rightHero {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    position: relative;
+    top: 230px;
+    right: 250px;
+    gap: 100px;
+}
+
+.playButton {
+    height: 150px;
+    filter: drop-shadow(0 0 0 rgba(0, 0, 0, 0));
+    transition: filter 0.3s;
+}
+
+.playButton:hover {
+    filter: drop-shadow(0px 0px 20px #ffffff);
+    cursor: wait;
+}
+
+.rightHeroBottom {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+    position: relative;
+    left: 20px;
+}
+
+.playHeadLine {
+    font-size: 25px;
+    font-weight: 400;
+    width: 45%;
+    text-shadow: 0px 0px 50px #ffffff;
+}
+
+.rightHeroBottom .dash {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: -10px;
+}
+
+.rightHeroBottom .arrow {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 90px;
+    left: -10px;
+}
+
+/* war Games Section */
+
+.warGamesSection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 900px;
+    justify-content: space-evenly;
+    background: rgb(0, 0, 0);
+    background: radial-gradient(circle, rgba(0, 0, 0, 1) 29%, rgba(166, 65, 32, 1) 92%);
+}
+
+.warGamesSection h1 {
+    font-size: 50px;
+    font-weight: 700;
+    width: 50%;
+    text-align: center;
+    color: #ffffff;
+}
+
+.warGamesGrid {
+    display: flex;
+    gap: 50px;
+}
+
+.warGameCard {
+    height: 400px;
+    width: 300px;
+    background-size: 750px;
+    /* zoom out on the background image by 50% */
+    transition: all 0.7s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+.warGameCard:hover {
+    transform: scale(1.2);
+    background-size: 600px;
+    justify-content: center;
+}
+
+.warGameCard1 {
+    background-image: url(../Assets/Photos/image\ 1.png);
+    background-position: 70%;
+    box-shadow: 0 0 10px 5px rgba(139, 158, 164, 1);
+}
+
+.warGameCard2 {
+    background-image: url(../Assets/Photos/image\ 2.png);
+    background-position: 50%;
+    box-shadow: 0 0 10px 5px rgba(109, 96, 54, 1);
+
+}
+
+.warGameCard3 {
+    background-image: url(../Assets/Photos/image\ 3.png);
+    background-position: 50%;
+    box-shadow: 0 0 10px 5px rgba(70, 82, 165, 1);
+
+}
+
+.warGameCard4 {
+    background-image: url(../Assets/Photos/image\ 4.png);
+    background-position: 50%;
+    box-shadow: 0 0 10px 5px rgba(183, 43, 41, 1);
+}
+
+.warGameDetails {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    /* top: 300px; */
+    height: 100px;
+    width: 100%;
+    background-color: rgba(73, 78, 80, 0.6);
+}
+
+.warGameDetails:hover {
+    height: 90%;
+    /* flex-direction: column; */
+}
+
+.warCardLeft {
+    display: flex;
+    flex-direction: column;
+}
+
+.warCardLeft p:nth-child(1) {
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.warCardLeft p:nth-child(2) {
+    font-size: 15px;
+    color: #949797;
+}
+
+.warGameCard button {
+    background-color: #F4694C;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 10px;
+}
+
+.warGameSection2 {
+    display: flex;
+    align-items: center;
+    height: 900px;
+    background: rgb(0, 0, 0);
+    background: radial-gradient(circle, rgba(0, 0, 0, 1) 29%, rgba(166, 65, 32, 1) 92%);
+    justify-content: space-evenly;
+    /* border-top: 1px solid #000000; */
+    gap: 200px;
+}
+
+.warGameSection2 img {
+    width: 600px;
+    height: 400px;
+    background-image: url(../Assets/Photos/Rectangle\ 57.png);
+    box-shadow: 0 0 10px 5px rgba(183, 43, 41, 1);
+    /* object-position: center; */
+    position: relative;
+    left: 100px;
+}
+
+.warGameSection2-right {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    /* left: 500px; */
+    gap: 50px;
+    width: 600px
+}
+
+.warGameSection2-right h1 {
+    font-size: 50px;
+    font-weight: 700;
+    /* width: 60%; */
+    text-align: left;
+    color: #ffffff;
+}
+
+.warGameSection2-right p {
+    color: #ffffff;
+    /* width: 50%; */
+}
+
+.warGameSection2RightButtons {
+    display: flex;
+    gap: 20px;
+}
+
+.warGameSection2RightButtons button {
+    padding: 10px 30px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.warGameSection2RightButtons button:nth-child(1) {
+    background-color: #F4694C;
+    color: #ffffff;
+    border: 2px solid #F4694C;
+}
+
+.warGameSection2RightButtons button:nth-child(2) {
+    color: #F4694C;
+    border: 2px solid #F4694C;
+}
+
+.warGameSection2RightButtons button:nth-child(1):hover {
+    background-color: #DF3A11;
+    color: #ffffff;
+}
+
+.warGameSection2RightButtons button:nth-child(2):hover {
+    background-color: #DF3A11;
+    color: #ffffff;
+    border: 2px solid #DF3A11;
+}
+
+/* Reccomendation Section */
+
+.recommandation-section {
+    background: rgb(0, 0, 0);
+    background: radial-gradient(circle, rgba(0, 0, 0, 1) 29%, rgba(166, 65, 32, 1) 92%);
+    height: 1000px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    padding-top: 50px;
+}
+
+.recommandation-section .topSection {
+    display: flex;
+    gap: 400px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.recommandation-section .topSection h1 {
+    font-size: 50px;
+    font-weight: 700;
+    /* width: 60%; */
+    text-align: left;
+    color: #ffffff;
+    width: 50%;
+}
+
+.leftRightArrow img {
+    height: 70px;
+    width: 70px;
+    padding: 10px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.leftRightArrow img:nth-child(1) {
+    background-color: #FDE1DB;
+}
+
+.leftRightArrow img:nth-child(1):hover {
+    background-color: #FDE1DB;
+}
+
+.leftRightArrow img:nth-child(2) {
+    background-color: #F4694C;
+}
+
+.middleSection {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    justify-content: space-around;
+}
+
+.lastSection {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    justify-content: space-around;
+}
+
+.rsBoxLeft {
+    display: flex;
+    color: #ffffff;
+    width: 700px;
+    gap: 50px;
+}
+
+.rsBoxRight {
+    display: flex;
+    color: #ffffff;
+    width: 700px;
+    gap: 50px;
+}
+
+.rsBoxRight img {
+    height: 300px;
+
+}
+
+.rsBoxLeft img {
+    height: 300px;
+
+}
+
+.rsBoxLeft h1 {
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.rsBoxRight h1 {
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.rsBoxLeft .rsBoxDetails p:nth-child(2) {
+    font-size: 18px;
+    font-weight: 400;
+    color: #DF3A11;
+}
+
+.rsBoxRight .rsBoxDetails p:nth-child(2) {
+    font-size: 18px;
+    font-weight: 400;
+    color: #DF3A11;
+}
+
+.rsBoxLeft .rsBoxDetails p:nth-child(3) {
+    font-size: 15px;
+    font-weight: 400;
+    color: #ffffff;
+    /* width:60%; */
+    text-align: left;
+}
+
+.rsBoxRight .rsBoxDetails p:nth-child(3) {
+    font-size: 15px;
+    font-weight: 400;
+    color: #ffffff;
+    /* width:60%; */
+    text-align: left;
+}
+
+.rsBoxDetails {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    /* gap: 40px; */
+    justify-content: space-evenly;
+}
+
+.rsBoxDetails button {
+    background-color: #DF3A11;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 600;
+    width: 120px;
+    padding: 10px 10px;
+    text-align: center;
+
+}
+
+.middleSection .rsBoxLeft {
+    box-shadow: 0 0 10px 5px rgba(199, 128, 45, 1);
+    transition: all 0.5s ease-in-out;
+}
+
+.middleSection .rsBoxRight {
+    box-shadow: 0 0 10px 5px rgba(5, 231, 5, 1);
+    transition: all 0.5s ease-in-out;
+}
+
+.lastSection .rsBoxLeft {
+    box-shadow: 0 0 10px 5px rgba(38, 106, 144, 1);
+    transition: all 0.5s ease-in-out;
+}
+
+.lastSection .rsBoxRight {
+    box-shadow: 0 0 10px 5px rgba(119, 96, 157, 1);
+    transition: all 0.5s ease-in-out;
+}
+
+
+.middleSection .rsBoxLeft:hover {
+    /* box-shadow: none; */
+    transform: perspective(900px) rotateY(20deg);
+    /* backdrop-blur: 10px; */
+    /* opacity: 0.5; */
+}
+
+.middleSection .rsBoxRight:hover {
+    /* box-shadow: none; */
+    transform: perspective(900px) rotateY(-20deg);
+}
+
+.lastSection .rsBoxLeft:hover {
+    /* box-shadow: none; */
+    transform: perspective(900px) rotateY(20deg);
+}
+
+.lastSection .rsBoxRight:hover {
+    /* box-shadow: none; */
+    transform: perspective(900px) rotateY(-20deg);
+}
+
+/* Games of the year */
+
+.gamesOfTheYear {
+    background-color: #000308;
+    height: 950px;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.gamesOfTheYear h1 {
+    font-size: 50px;
+    width: 550px;
+    text-align: center;
+    z-index: 2;
+    position: relative;
+    top: 80px;
+}
+
+.gamesOfTheYear p {
+    width: 35%;
+    color: #707174;
+    text-align: left;
+    line-height: 150%;
+    z-index: 2;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+.gameOfTheYear-Banner {
+    z-index: 0;
+    height: 75px;
+    position: relative;
+    left: 220px;
+    top: 100px;
+    transition: all 0.5s ease-in-out;
+}
+
+.gameOfTheYear-Banner {
+    box-shadow: 0px 0px 100px 10px rgba(5, 231, 5, 1) inset;
+    animation: blink 2s infinite;
+}
+
+@keyframes blink {
+    50% {
+        box-shadow: none;
+    }
+}
+
+.gridImgs img {
+    z-index: 2;
+    position: relative;
+}
+
+.gridImgs img:nth-child(1) {
+    height: 450px;
+    left: -250px;
+    top: -100px;
+}
+
+.gridImgs img:nth-child(2) {
+    height: 350px;
+    top: -40px;
+    right: 150px;
+}
+
+.gridImgs img:nth-child(3) {
+    height: 250px;
+    right: 80px;
+}
+
+/* Last Details */
+
+.lastDetails {
+    height: 1000px;
+    background-color: #000308;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 1.5px solid #DF3A11;
+}
+
+.lastDetails .upperSection {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+    height: 500px;
+    position: relative;
+    top: 40px;
+}
+
+.lastDetails .upperSection img {
+    background-position: center;
+    background-size: cover;
+    /* opacity: 50%; */
+    filter: brightness(30%);
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 153px;
+}
+
+.lastDetails .upperSection h1 {
+    width: 500px;
+    text-align: center;
+    font-size: 40px;
+    position: relative;
+    top: -260px;
+}
+
+.lastDetails .upperSection p {
+    color: #707174;
+    width: 400px;
+    text-align: center;
+    position: relative;
+    top: -270px;
+}
+
+.lastDetails .upperSection button {
+    background-color: #F4694C;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 10px 25px;
+    text-align: center;
+    position: relative;
+    top: -270px;
+}
+
+.lastDetails .lastSection {
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 100px;
+}
+
+.lastSection .leftSection {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: baseline;
+    left: -70px;
+    top: -100px;
+    position: relative;
+}
+
+.lastSection .leftSection img {
+    height: 50px;
+}
+
+.lastSection .leftSection p {
+    font-size: 14px;
+    color: #918D8D;
+    width: 60%;
+    text-align: left;
+}
+
+.gridIMG {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.gridIMG img {
+    height: 18px;
+    cursor: pointer;
+}
+
+.lastSection .rightSection {
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(7) repeat(5) repeat(5) repeat(2);
+    color: #918D8D;
+    justify-items: start;
+    align-items:start;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    bottom: 60px;
+}
+
+.rightSection p {
+    font-size: 15px;
+    /* height: -10px; */
+}
+
+.rightSection p:hover {
+    color: #DF3A11;
+}
+
+.gridHeadings {
+    color: #ffffff;
+    font-size: 17px;
+    font-weight: 500;
+    position: relative;
+    bottom: 30px;
+}
+
+
+
+
