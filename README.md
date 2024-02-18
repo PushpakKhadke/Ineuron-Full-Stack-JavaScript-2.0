@@ -26,5 +26,5 @@
 | 08          | Hosting Site Landing Page |10-Dec-2022|   <a href="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/tree/main/Projects/FSJS%202.0%20Project%2008">Link</a>  |
 | 09          | Gaming Site Landing Page |10-Dec-2022|   <a href="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/tree/main/Projects/FSJS%202.0%20Project%2009">Link</a> |
 | 10          |  Real Estate Landing Page    |11-Dec-2022|  <a href="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/tree/main/Projects/FSJS%202.0%20Project%2010">Link</a>  |
-| 11          |  Beats Landing Page    |11-Dec-2022|   <a href="#">Link</a> |
+| 11          |  Beats Landing Page    |11-Dec-2022|   <a href="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/tree/main/Projects/FSJS%202.0%20Project%2011">Link</a> |
 | 12          |     Data Analytics Landing Page   |11-Dec-2022|   <a href="#">Link</a> |
