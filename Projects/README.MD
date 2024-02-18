@@ -29,6 +29,11 @@
 ### Project 10 ( Real Estate Landing Page ) : <a href="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/tree/main/Projects/FSJS%202.0%20Project%2010">Link</a>
 <h1><img src="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/blob/main/Projects/FSJS%202.0%20Project%2010/Output/RealEstate.png" alt="Image 10"></h1>
 
+### Project 11 ( Beats Landing Page ) : <a href="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/tree/main/Projects/FSJS%202.0%20Project%2011">Link</a>
+<h1><img src="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/blob/main/Projects/FSJS%202.0%20Project%2011/OUTPUT/Main_Landing_Page.png" alt="Image 11"></h1>
+
+
+
 
 
 
