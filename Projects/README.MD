@@ -34,7 +34,8 @@
 
 
 
-
+### Project 12 ( Data Analytics Landing Page ) : <a href="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/tree/main/Projects/FSJS%202.0%20Project%2012">Link</a>
+<h1><img src="https://github.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/blob/main/Projects/FSJS%202.0%20Project%2012/Data_Analytics_Landing_Page.png" alt="Image 12"></h1>
 
 
 
