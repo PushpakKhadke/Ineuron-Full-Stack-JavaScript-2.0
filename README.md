@@ -1,4 +1,4 @@
-# 💻 Ineurontee-Full-Stack-JavaScript-2.0
+# 💻 Ineuron-Full-Stack-JavaScript-2.0
 ## About This Repository
 - This is my repository course by Hitesh Sir and Anurag Sir for Full Stack JavaScript 2.0 course.
 - All projects, articles and other practices are listed below.
